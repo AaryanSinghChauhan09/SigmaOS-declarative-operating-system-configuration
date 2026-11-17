@@ -3,7 +3,7 @@ name = "SigmaOS-declarative-operating-system-configuration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "declarative-operating-system-configuration component"
+description = "Declarative Operating System Configuration"
 upstream = []
 
 [contract]
