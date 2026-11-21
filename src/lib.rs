@@ -152,3 +152,6 @@ pub mod generation_manager;
 
 /// Module extracted from the SigmaOS-system monolith.
 pub mod declarative_state;
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod state;
